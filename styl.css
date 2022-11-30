@@ -1,0 +1,66 @@
+h1 {
+  color: rgb(74, 74, 74);
+  border: 1px solid rgb(152, 111, 111);
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 50%;
+  margin-left:auto;
+margin-right:auto;
+padding:60px;
+margin-top: 0px;
+}
+
+body{
+    width: fit-content;
+    background-image: url("tlo.jpg");
+    background-position: center;
+background-repeat: no-repeat;
+background-size:cover;
+position:relative;
+object-position: left;
+
+margin-left:auto;
+margin-right:auto;
+padding:40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 16px;
+
+}
+div{
+ /* background-color: rgb(255, 231, 222); */
+}
+
+	
+p{
+	color:#000000;
+  text-align: left;
+	}
+	
+  h2{
+    font-size:28px;
+    text-align:center;
+    padding:5px;
+    color: rgba(101, 81, 81, 0.658);
+  }
+
+  h6{
+    font-size:22px;
+    text-align:center;
+    padding:5px;
+    color: rgba(115, 83, 175, 0.658);
+  }
+h5{
+  font-size:24px;
+  text-align:center;
+  padding:15px;
+  color: rgba(19, 89, 230, 0.658);
+}
+h3{
+  font-size:22px;
+  text-align:center;
+  padding:5px;
+  color: rgba(255, 0, 0, 0.658);
+  text-align: right;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width: 150px;
+}
